@@ -2,8 +2,9 @@ function setup() {
     createCanvas(windowWidth, windowHeight);
 }
   
-let x=1
-let speedx=2
+let x=1;
+let speedx=2;
+console.log(x);
 
 function draw() {
     //center circle
@@ -34,7 +35,7 @@ function draw() {
 
 
     //ride circle left
-    fill(250,100,100)
+    fill(250,100,150)
     circle(x,350,10);
     x=x+speedx
 
