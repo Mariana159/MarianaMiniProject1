@@ -1,2 +1,3 @@
 # MarianaMiniProject1
 This is my first p5 sketch
+This drawing consists of a pink background that takes up the whole windows page. A grey cirlce is drawn at the center of the windows page. Off to the left a dark square is drawn. Starting at the 2 upper corners of the square, draw a triangle by aiming 2 line coming from either corner to the middle of the bottom side of the square. At this point draw a small red circle. 
