@@ -37,7 +37,7 @@ function draw() {
     //ride circle left
     fill(250,100,150)
     circle(x,350,10);
-    x=x+speedx
+    
 
 
 
